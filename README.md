@@ -24,12 +24,14 @@ For this workshop the participants are asked to install the 3.44 LTR version of 
 
 ## Program
 
-10.00 - 11.00 Introduction to Spatial Data and Geographic Information Systems (lecture)
-11.00 - 12.00 Understanding the interface of QGIS 
-                - Projected coordinate systems
-                - Work with Vector data (load, create, edit, query)
-                - Generate thematic maps
-12.00 - 12.45 Lunch
-12.45 - 13.30 Get data from external sources. 
-13.30 - 13.45 Break
-14.00 - 15.00 Georefernce Historical maps 
+|Time| Activity| type| 
+|----|----|----|
+|10.00 - 11.00| Introduction to Spatial Data and Geographic Information Systems | lecture|
+|11.00 - 12.00| Understanding the interface of QGIS | hands-on |
+| | - Projected coordinate systems| |
+| | - Work with Vector data (load, create, edit, query)| |
+| | - Generate thematic maps| |
+|12.00 - 12.45| Lunch | |
+|12.45 - 13.30 | Get data from external sources.| hands-on |
+|13.30 - 13.45 | Break | |
+|14.00 - 15.00 | Georefernce Historical maps | hands-on |
