@@ -34,4 +34,4 @@ For this workshop the participants are asked to install the 3.44 LTR version of 
 |12.00 - 12.45| Lunch | |
 |12.45 - 13.30 | Get data from external sources.| hands-on |
 |13.30 - 13.45 | Break | |
-|14.00 - 15.00 | Georefernce Historical maps | hands-on |
+|14.00 - 15.00 | Georeference Historical maps | hands-on |
