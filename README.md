@@ -67,3 +67,6 @@ You can download the data from: https://docs.qgis.org/3.16/en/docs/training_manu
 
 **Vector Analysis:**
 - https://docs.qgis.org/3.16/en/docs/training_manual/vector_analysis/basic_analysis.html
+
+**Alternative tutorials:**
+- https://libguides.brown.edu/gis_data_tutorials/intro_qgis
