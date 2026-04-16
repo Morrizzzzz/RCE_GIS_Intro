@@ -38,7 +38,7 @@ For this workshop the participants are asked to install the 3.44 LTR version of 
 
 
 
-## Usefull tutorials:
+## Useful tutorials:
 QGIS Tutorials;
 https://www.qgistutorials.com/en/
 You can download the data from: https://docs.qgis.org/3.16/en/docs/training_manual/foreword/intro.html. in the section that says "Download the prepared dataset from the Training data repository".
