@@ -63,7 +63,12 @@ You can download the data from: https://docs.qgis.org/3.16/en/docs/training_manu
 - https://www.qgistutorials.com/en/docs/3/digitizing_basics.html
 
 **Spatial queries:**
-- https://www.qgistutorials.com/en/docs/3/performing_spatial_queries.html 
+- https://www.qgistutorials.com/en/docs/3/performing_spatial_queries.html
+
+**Lecture material**
+- https://www.dropbox.com/scl/fo/u016v17wd2kce5xpsev8a/ANXop1rNI1k3OYAJyDb05nE?rlkey=bx9mljwzv6nggmgp5pt44svlj&st=vrbacgfh&dl=0
+  
+- 
 
 **Vector Analysis:**
 - https://docs.qgis.org/3.16/en/docs/training_manual/vector_analysis/basic_analysis.html
