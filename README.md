@@ -35,3 +35,35 @@ For this workshop the participants are asked to install the 3.44 LTR version of 
 |12.45 - 13.30 | Get data from external sources.| hands-on |
 |13.30 - 13.45 | Break | |
 |14.00 - 15.00 | Georeference Historical maps | hands-on |
+
+
+
+## Usefull tutorials:
+QGIS Tutorials;
+https://www.qgistutorials.com/en/
+You can download the data from: https://docs.qgis.org/3.16/en/docs/training_manual/foreword/intro.html. in the section that says "Download the prepared dataset from the Training data repository".
+
+**Making a map:**
+- https://www.qgistutorials.com/en/docs/3/making_a_map.html 
+
+**Map projections:**
+- https://www.qgistutorials.com/en/docs/working_with_projections.html
+  
+**Working with attributes:**
+- https://www.qgistutorials.com/en/docs/3/working_with_attributes.html
+  
+**Basic vector and raster styling:**
+- https://www.qgistutorials.com/en/docs/3/basic_vector_styling.html
+- https://www.qgistutorials.com/en/docs/3/raster_styling_and_analysis.html
+  
+**Georeferencing:**
+- https://www.qgistutorials.com/en/docs/3/georeferencing_basics.html
+  
+**Digitizing:**
+- https://www.qgistutorials.com/en/docs/3/digitizing_basics.html
+
+**Spatial queries:**
+- https://www.qgistutorials.com/en/docs/3/performing_spatial_queries.html 
+
+**Vector Analysis:**
+- https://docs.qgis.org/3.16/en/docs/training_manual/vector_analysis/basic_analysis.html
