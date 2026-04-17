@@ -76,3 +76,6 @@ You can download the data from: https://docs.qgis.org/3.16/en/docs/training_manu
 
 **3D viewer Dutch elevation model**
 - [3d viewer](https://fsn1.your-objectstorage.com/hwh-ahn/AHN_POTREE/index.html?position=[121752.83;487413.84;80.23;]&target=[121229.72;488119.49;-397.71;]&ahn=ahn4&style=elevation)
+
+**BGT downloader**
+- https://app.pdok.nl/lv/bgt/download-viewer/
